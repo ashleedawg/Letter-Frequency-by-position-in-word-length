@@ -1,7 +1,10 @@
 # Letter-Frequency-by-position-in-word-length
-(ie, "What's most commonly the 4th character in 8 letter words?") 
+**(ie, "What's most commonly the 4th character in 8 letter words?")** 
 
 
-Generated using [this list](https://raw.githubusercontent.com/dwyl/english-words/master/words.txt) of 479k English words.
+CSV and XLSM, generated using [this list](https://raw.githubusercontent.com/dwyl/english-words/master/words.txt) of 479k English words.
 
-(Excludes proper names and any words containing symbols or numbers.)
+*(Excludes proper names and any words containing symbols or numbers.)*
+
+
+![exmaple image](https://i.imgur.com/di8cn7R.png)
